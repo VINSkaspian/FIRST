@@ -1,1 +1,1 @@
-print("Zdravim-Zdravim!")
+print("No tak Zdravim-Zdravim!")
