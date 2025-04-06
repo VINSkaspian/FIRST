@@ -1,1 +1,0 @@
-print("No t@k Zdravim-Zdravim!")
